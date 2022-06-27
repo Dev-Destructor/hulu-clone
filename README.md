@@ -29,4 +29,4 @@ npm run dev
 
 ## Preview
 
-<img src="./public/" atl="preview"/>
+<img src="./public/Screenshot from 2022-06-27 22-30-04.png" alt="preview"/>
