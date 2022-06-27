@@ -26,6 +26,8 @@ First, run the development server:
 npm run dev
 ```
 
+<Br /><Br />
+
 ## Deployment
 
 Deployed using vercel.
