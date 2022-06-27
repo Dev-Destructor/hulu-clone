@@ -31,7 +31,7 @@ npm run dev
 ## Deployment
 
 Deployed using vercel.
-link:- [Hulu Clone](https://vercel.com/destructor007/hulu-clone)
+link:- [Hulu Clone](https://hulu-clone-destructor007.vercel.app)
 
 <Br/> <Br/>
 
