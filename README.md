@@ -25,6 +25,12 @@ First, run the development server:
 ```bash
 npm run dev
 ```
+
+## Deployment
+
+Deployed using vercel.
+link:- [Hulu Clone](https://vercel.com/destructor007/hulu-clone)
+
 <Br/> <Br/>
 
 ## Preview
